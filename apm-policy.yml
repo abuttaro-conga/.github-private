@@ -12,7 +12,7 @@ dependencies:
     - "microsoft/*"
     - "abuttaro-conga/**"
     - "mattpocock/skills"
-    - "JuliusBrussee/caveman/*"
+    - "JuliusBrussee/caveman/**"
     - "JuliusBrussee/caveman"
   # deny:
   #   - "untrusted-org/**"
