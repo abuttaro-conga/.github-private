@@ -13,6 +13,7 @@ dependencies:
     - "abuttaro-conga/**"
     - "mattpocock/skills"
     - "juliusbrussee/caveman"
+    - "github/awesome-copilot/*"
   # deny:
   #   - "untrusted-org/**"
 
