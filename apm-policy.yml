@@ -14,6 +14,7 @@ dependencies:
     - "mattpocock/skills"
     - "mattpocock/skills/**"
     - "juliusbrussee/caveman"
+    - "github/awesome-copilot"
     - "github/awesome-copilot/**"
   # deny:
   #   - "untrusted-org/**"
