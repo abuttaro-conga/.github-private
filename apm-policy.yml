@@ -2,6 +2,10 @@ name: "Conga Engineering Policy"
 version: "1.0.0"
 enforcement: block         # warn | block | off
 
+# when depenendies are changed client can force refresh using, apm policy status --no-cache
+cache:
+  ttl: 3600                     # Policy cache TTL in seconds
+
 dependencies:
   allow:
     - "congaengr/**"
