@@ -12,10 +12,6 @@ dependencies:
     - "microsoft/*"
     - "abuttaro-conga/**"
     - "mattpocock/skills"
-    - "juliusbrussee/caveman/**"
-    - "juliusbrussee/caveman/*"
-    - "juliusbrussee/caveman"
-    - "JuliusBrussee/caveman/**"
     - "JuliusBrussee/caveman/*"
     - "JuliusBrussee/caveman"
   # deny:
