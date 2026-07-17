@@ -11,6 +11,7 @@ dependencies:
     - "congaengr/**"
     - "microsoft/*"
     - "abuttaro-conga/**"
+    - "mattpocock/skills"
     - "mattpocock/skills/**"
     - "juliusbrussee/caveman"
     - "github/awesome-copilot/**"
