@@ -1,0 +1,14 @@
+name: "Conga Engineering Policy"
+version: "1.0.0"
+enforcement: block         # warn | block | off
+
+dependencies:
+  allow:
+    - "congaengr/**"
+    - "microsoft/*"
+  # deny:
+  #   - "untrusted-org/**"
+
+mcp:
+  transport:
+    allow: [http, stdio]   # explicit allow list: blocks sse and streamable-http
