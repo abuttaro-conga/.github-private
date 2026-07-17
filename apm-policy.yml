@@ -11,8 +11,8 @@ dependencies:
     - "congaengr/**"
     - "microsoft/*"
     - "abuttaro-conga/**"
-    - "mattpocock/skills"
-    - "juliusbrussee/caveman"
+    - "mattpocock/skills/*"
+    - "juliusbrussee/caveman/*"
     - "github/awesome-copilot/**"
   # deny:
   #   - "untrusted-org/**"
