@@ -7,8 +7,8 @@ dependencies:
     - "congaengr/**"
     - "microsoft/*"
     - "abuttaro-conga/**"
-    - "mattpocock/skills/*"
-    - "JuliusBrussee/caveman/*"
+    - "mattpocock/skills/**"
+    - "JuliusBrussee/caveman/**"
   # deny:
   #   - "untrusted-org/**"
 
