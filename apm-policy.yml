@@ -16,6 +16,7 @@ dependencies:
     - "juliusbrussee/caveman"
     - "github/awesome-copilot"
     - "github/awesome-copilot/**"
+    - "dietrichgebert/ponytail"
     - "dietrichgebert/ponytail/**"
   # deny:
   #   - "untrusted-org/**"
