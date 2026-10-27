@@ -18,6 +18,8 @@ dependencies:
     - "github/awesome-copilot/**"
     - "dietrichgebert/ponytail"
     - "dietrichgebert/ponytail/**"
+    - "cursor/plugins/**"
+    - "addyosmani/agent-skills/**"
   # deny:
   #   - "untrusted-org/**"
 
